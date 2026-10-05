@@ -1,0 +1,1 @@
+"""Gerador de senhas seguras para linha de comando."""
